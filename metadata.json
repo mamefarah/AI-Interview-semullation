@@ -1,0 +1,7 @@
+{
+  "name": "AI Interview Simulator",
+  "description": "An application that converts an interview script into a live, interactive job interview simulation using AI-powered text-to-speech for the interviewer and real-time speech-to-text for the candidate's responses.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
